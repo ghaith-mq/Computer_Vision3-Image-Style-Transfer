@@ -10,3 +10,5 @@ It can be divided into several steps:
 3- Apply the image style transfer using VGG19 network
 
 4- Place the image back in its original location using Inverse Projective trnasform.
+
+5- Detection evaluation was computed using IuO metric. Overall IuO accurracy on test set was 88%
